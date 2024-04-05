@@ -2,6 +2,8 @@ POSTMAN
 
 POST Example
 http://localhost:8080/bookMovieTicket
+
+
 {
     "ticket":{
         "name": "Furkan",
